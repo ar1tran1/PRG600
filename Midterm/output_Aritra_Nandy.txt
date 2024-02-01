@@ -1,0 +1,115 @@
+PS C:\Users\riddh\OneDrive\Desktop\School\PRG600\Midterm> & C:/Users/riddh/AppData/Local/Programs/Python/Python311/python.exe c:/Users/riddh/OneDrive/Desktop/School/PRG600/Midterm/midtermprg600.py
+Enter the number of players: four
+Invalid input. Please enter a valid number of players.
+Enter the number of players: 4
+Enter the name of Player 1: Applea
+Enter the name of Player 2: Appleb
+Enter the name of Player 3: Applec
+Enter the name of Player 4: Appled
+Enter the number of rounds you want to play: three
+Invalid input. Please enter a valid number of rounds.
+Enter the number of rounds you want to play: 3
+****************************************
+          Rounds   Round 1     Round 2     Round 3     Total
+                      Score       Score       Score       Score
+Applea            0           0           0           0
+Appleb            0           0           0           0
+Applec            0           0           0           0
+Appled            0           0           0           0
+****************************************
+*************************************
+Applea, press Enter to roll the dice...
+1 and 3
+Appleb, press Enter to roll the dice...
+1 and 4
+Applec, press Enter to roll the dice...
+4 and 5
+Appled, press Enter to roll the dice...
+2 and 2
+****************************************
+          Rounds   Round 1     Round 2     Round 3     Total
+                      Score       Score       Score       Score
+Applea            4           0           0           4
+Appleb            5           0           0           5
+Applec            9           0           0           9
+Appled            4           0           0           4
+****************************************
+Applea, press Enter to roll the dice...
+3 and 1
+Appleb, press Enter to roll the dice...
+2 and 4
+Applec, press Enter to roll the dice...
+3 and 6
+Appled, press Enter to roll the dice...
+6 and 1
+****************************************
+          Rounds   Round 1     Round 2     Round 3     Total
+                      Score       Score       Score       Score
+Applea            4           4           0           8
+Appleb            5           6           0          11
+Applec            9           9           0          18
+Appled            4           7           0          11
+****************************************
+Applea, press Enter to roll the dice...
+4 and 4
+Appleb, press Enter to roll the dice...
+5 and 2
+Applec, press Enter to roll the dice...
+1 and 1
+Appled, press Enter to roll the dice...
+5 and 1
+****************************************
+          Rounds   Round 1     Round 2     Round 3     Total
+                      Score       Score       Score       Score
+Applea            4           4           8          16
+Appleb            5           6           7          18
+Applec            9           9           2          20
+Appled            4           7           6          17
+****************************************
+Congratulations Applec! You are the WINNER!
+Would you like to play another game? [1] Yes [2] No: 1
+Enter the number of players: 3
+Enter the name of Player 1: Orangea
+Enter the name of Player 2: Orangeb
+Enter the name of Player 3: Orangec
+Enter the number of rounds you want to play: 
+Invalid input. Please enter a valid number of rounds.
+Enter the number of rounds you want to play: 2
+******************************
+          Rounds   Round 1     Round 2     Total
+                      Score       Score       Score
+Orangea            0           0           0
+Orangeb            0           0           0
+Orangec            0           0           0
+******************************
+*****************************
+Orangea, press Enter to roll the dice...
+2 and 1
+Orangeb, press Enter to roll the dice...
+1 and 1
+Orangec, press Enter to roll the dice...
+4 and 4
+******************************
+          Rounds   Round 1     Round 2     Total
+                      Score       Score       Score
+Orangea            3           0           3
+Orangeb            2           0           2
+Orangec            8           0           8
+******************************
+Orangea, press Enter to roll the dice...
+6 and 4
+Orangeb, press Enter to roll the dice...
+4 and 1
+Orangec, press Enter to roll the dice...
+6 and 4
+******************************
+          Rounds   Round 1     Round 2     Total
+                      Score       Score       Score
+Orangea            3          10          13
+Orangeb            2           5           7
+Orangec            8          10          18
+******************************
+Congratulations Orangec! You are the WINNER!
+Would you like to play another game? [1] Yes [2] No: 2
+Thank you and see you later!
+PS C:\Users\riddh\OneDrive\Desktop\School\PRG600\Midterm>

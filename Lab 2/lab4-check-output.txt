@@ -1,0 +1,18 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-09-22 23:42:36.399858
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\riddh\OneDrive\Desktop\School\PRG600\Lab2\lab4a.py", line 31, in <module>
+    guess_number()
+  File "C:\Users\riddh\OneDrive\Desktop\School\PRG600\Lab2\lab4a.py", line 15, in guess_number
+    guess = int(input("Enter a number between 1 and 10: "))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+WARNING:root:lab4a.py: Failures encountered.
+INFO:root:done.
+WARNING:root:lab4b.py: Failures encountered.
+INFO:root:done.
+WARNING:root:lab4c.py: Failures encountered.
+INFO:root:done.
+WARNING:root:challenge4.py: Failures encountered.
+INFO:root:done.

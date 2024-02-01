@@ -1,0 +1,18 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-09-21 14:46:38.586351
+WARNING:root:lab3a.py: Failures encountered.
+INFO:root:done.
+INFO:root:lab3b.py: test successful.
+INFO:root:lab3b.py f6b845a855bd4f15de1711486ae821a9
+INFO:root:done.
+INFO:root:lab3c.py: test successful.
+INFO:root:lab3c.py efbe7a2b3cfcbbaca0403fb3b0c599ff
+INFO:root:done.
+INFO:root:lab3d.py: test successful.
+INFO:root:lab3d.py 931376f6b83bbee0f19638c5461c48c4
+INFO:root:done.
+WARNING:root:lab3e.py: Failures encountered.
+INFO:root:done.
+INFO:root:challenge3.py: test successful.
+INFO:root:challenge3.py c417794c048f9c457c80fec63f434393
+INFO:root:done.

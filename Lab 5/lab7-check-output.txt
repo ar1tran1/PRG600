@@ -1,0 +1,17 @@
+INFO:root:c:/Users/riddh/OneDrive/Desktop/School/PRG600/Lab 5/check-lab7.py 7dd52ec7a5645c44808cd8ff059ef866
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-10 19:25:47.094523
+INFO:root:lab7a.py: test successful.
+INFO:root:lab7a.py d3c5daf813b8d751b679cd2c3b165b46
+INFO:root:done.
+INFO:root:lab7b.py: test successful.
+INFO:root:lab7b.py f19744b397467968a0fb17c4737bd281
+INFO:root:done.
+INFO:root:lab7c.py: test successful.
+INFO:root:lab7c.py fbba3b16adc6f57730f0b47a07ca9765
+INFO:root:done.
+INFO:root:lab7d.py: test successful.
+INFO:root:lab7d.py cf763f19d6a483bcfdee30b2ba78e3c3
+INFO:root:done.
+WARNING:root:challenge7.py: Failures encountered.
+INFO:root:done.

@@ -1,0 +1,26 @@
+**************************************
+Student Number: 137916227
+First Name: Aritra
+Last Name: Nandy
+Email: anandy@myseneca.ca
+Academic integrity confirmation: Y
+Time: 2023-12-05 16:55:13.824368
+I understand, that I still have to meet the blackbord submission timeline to get credit for my work
+Computer Name: DESKTOP-TS4DSC5
+IP Address: 192.168.243.1
+Result File Hash: d5741b110c92c34043b3e5ba69b769e76f970035f31945d434dddaf7c22796fd
+**************************************
+
+
+**************************************
+**************************************
+Percentage Difference 8.620689655172415
+**************************************
+**************************************
+
+
+**************************************
+**************************************
+Points Earned: 11
+**************************************
+**************************************

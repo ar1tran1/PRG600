@@ -1,0 +1,11 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-09-14 23:28:31.222721
+INFO:root:lab2a.py: test successful.
+INFO:root:lab2a.py 07885b3fbf15a7429050547de8b7cb56
+INFO:root:done.
+INFO:root:lab2b.py: test successful.
+INFO:root:lab2b.py c6191c76ba69714ac76d0af3c62f80c6
+INFO:root:done.
+INFO:root:challenge2.py: test successful.
+INFO:root:challenge2.py fb08378b61cacdcd9a573ab366b680f8
+INFO:root:done.

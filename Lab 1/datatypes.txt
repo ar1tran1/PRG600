@@ -1,0 +1,10 @@
+The student’s name?
+ string
+The number of students in a class?
+  integer
+The student’s grade (as a percent)?
+ float
+The student’s nine-digit ID number?
+string
+The total amount of tuitions paid by the student (in Canadian dollars)? 
+float

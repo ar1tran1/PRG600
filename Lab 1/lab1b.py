@@ -1,0 +1,7 @@
+print("Welcome to PRG600!")
+name = input("Enter your name :")
+student_id = input("Enter your student ID :")
+age = input("Enter your age :")
+food = input ("Enter your favourite food :")
+print(name + " is " + age + " years old and loves to eat " + food + "!")
+print("Good luck with the course!")

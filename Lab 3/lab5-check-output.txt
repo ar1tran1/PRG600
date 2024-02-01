@@ -1,0 +1,24 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-10-06 18:37:41.562362
+INFO:root:lab5a.py: test successful.
+INFO:root:lab5a.py 054b1ae04e4546411e4e3ef293e7e231
+INFO:root:done.
+INFO:root:lab5b.py: test successful.
+INFO:root:lab5b.py 2c7f2f2a41b43f246647daecfe247b65
+INFO:root:done.
+ERROR:root:Traceback (most recent call last):
+  File "C:\Users\riddh\OneDrive\Desktop\School\PRG600\Lab 3\lab5c.py", line 45, in <module>
+    user_guess = input("Enter a letter or a guess. Press enter to quit: ").lower()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+
+WARNING:root:lab5c.py: Failures encountered.
+INFO:root:done.
+INFO:root:lab5d.py: test successful.
+INFO:root:lab5d.py 349bda88ee6b22610d83bd925ae544c1
+INFO:root:done.
+INFO:root:lab5e.py: test successful.
+INFO:root:lab5e.py d7b561d8b242b4cb92f7a4420c8b1286
+INFO:root:done.
+WARNING:root:challenge5.py: Failures encountered.
+INFO:root:done.

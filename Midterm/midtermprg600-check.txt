@@ -1,0 +1,29 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-10-12 12:24:57.112622
+INFO:root:midtermprg600-check.txt 48a62e6c2a1d1d4c6db4625d709ea718
+INFO:root:
+INFO:root:
+INFO:root:<class '__main__.TestRollDice'>: test successful.
+INFO:root:<class '__main__.TestRollDice'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestGetPlayers'>: test successful.
+INFO:root:<class '__main__.TestGetPlayers'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestGetRounds'>: test successful.
+INFO:root:<class '__main__.TestGetRounds'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestSetgame'>: test successful.
+INFO:root:<class '__main__.TestSetgame'>: 4 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestAskToRoll'>: test successful.
+INFO:root:<class '__main__.TestAskToRoll'>: 1 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestFindWinner'>: test successful.
+INFO:root:<class '__main__.TestFindWinner'>: 2 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestRunGame'>: test successful.
+INFO:root:<class '__main__.TestRunGame'>: 5 Marks Awarded - (This is further evaluated after submission and might change after revewing your code).
+INFO:root:done.
+INFO:root:<class '__main__.TestPrintGame'>: Undecided Provide Screenshots and Recordings.
+INFO:root:done.
+INFO:root:Your total is 15
